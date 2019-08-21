@@ -1,4 +1,4 @@
-# Use GDB pring elements of STL containers
+# Use GDB to print elements of STL containers
 
 - Download the GDB macros files
 [gdb-stl-views](https://sourceware.org/gdb/wiki/STLSupport)
